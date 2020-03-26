@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Welcome To {{ config('app.name', 'Laravel') }}
                 </div>
 
                 <div class="links">
